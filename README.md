@@ -1,7 +1,9 @@
 # Proyecto Alarma Vecinal ITSSMT
 <H2> Componentes </H2>
-* Arduino Uno
-* SIM900
+
+*Arduino Uno
+
+*SIM900
 
 <H2> Descripción </H2>
 
